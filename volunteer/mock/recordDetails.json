@@ -1,0 +1,16 @@
+{
+    "error": 0,
+    "msg": "操作成功",
+    "data": {
+        "details": {
+            "actTime": 1671928200000,
+            "content": "参与2022年马拉松志愿者,及时清理路边的纸杯、饮料瓶等垃圾，不让美丽的花海受到污染，确保了比赛生态、文明、安全、和谐",
+            "hour": "3",
+            "uploadTime": 1671928200000,
+            "status": 1,
+            "score": 4,
+            "place": "中山公园",
+            "imgList": ["./imgs/zhiyuanzhe.jpg"]
+        }
+    }
+}

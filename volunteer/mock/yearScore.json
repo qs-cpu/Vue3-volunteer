@@ -1,0 +1,9 @@
+{
+    "error": 0,
+    "msg": "操作成功",
+    "data": {
+        "times": 3,
+        "duration": 12,
+        "score": 24
+    }
+}

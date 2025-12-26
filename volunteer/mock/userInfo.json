@@ -1,0 +1,13 @@
+{
+    "error": 0,
+    "data": {
+        "avatar": "./imgs/avatar.png",
+        "name": "李华",
+        "code": 12343434,
+        "gender": 0,
+        "phoneNum": "18787698789",
+        "school": "福州大学至诚学院",
+        "profession": "软件工程",
+        "userType": 0
+    }
+}

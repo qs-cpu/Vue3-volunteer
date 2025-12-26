@@ -1,0 +1,67 @@
+{
+    "error": 0,
+    "data": {
+        "list": [
+            {
+                "id": 0,
+                "name": "许琳琳",
+                "score": 1420,
+                "avatar": "./imgs/avatar/1.png"
+            },
+            {
+                "id": 1,
+                "name": "徐磊",
+                "score": 1418,
+                "avatar": "./imgs/avatar/2.png"
+            },
+            {
+                "id": 2,
+                "name": "王珊",
+                "score": 1413,
+                "avatar": "./imgs/avatar/3.png"
+            },
+            {
+                "id": 3,
+                "name": "李文",
+                "score": 1412,
+                "avatar": "./imgs/avatar/4.png"
+            },
+            {
+                "id": 4,
+                "name": "张昱",
+                "score": 1390,
+                "avatar": "./imgs/avatar/5.png"
+            },
+            {
+                "id": 5,
+                "name": "陈鑫",
+                "score": 1380,
+                "avatar": "./imgs/avatar/6.png"
+            },
+            {
+                "id": 6,
+                "name": "杨阳",
+                "score": 1387,
+                "avatar": "./imgs/avatar/1.png"
+            },
+            {
+                "id": 7,
+                "name": "周琼",
+                "score": 1383,
+                "avatar": "./imgs/avatar/2.png"
+            },
+            {
+                "id": 8,
+                "name": "黎明",
+                "score": 1381,
+                "avatar": "./imgs/avatar/3.png"
+            },
+            {
+                "id": 9,
+                "name": "刘雯",
+                "score": 13376,
+                "avatar": "./imgs/avatar/4.png"
+            }
+        ]
+    }
+}

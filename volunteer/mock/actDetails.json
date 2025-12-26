@@ -1,0 +1,19 @@
+{
+    "error": 0,
+    "data": {
+        "details": {
+            "id": 0,
+            "title": "运动会志愿者招募",
+            "content": "2022武汉马拉松即将举行，现需招募大量志愿者",
+            "startTime": 1671496200000,
+            "endTime": 1671503400000,
+            "publisher": "武汉市体育局",
+            "hour": 2,
+            "palce": "中山公园",
+            "isYourSchool": false,
+            "canApply": true,
+            "total": 20,
+            "applyStatus": 1
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "error": 0,
+    "msg": "操作成功",
+    "data": {
+        "name": "李华",
+        "totalScore": 560,
+        "avatar": "./imgs/avatar.png"
+    }
+}
