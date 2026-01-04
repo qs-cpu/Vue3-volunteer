@@ -22,8 +22,8 @@ defineProps({
       </span>
     </div>
     <!-- 跳转用户信息页面，先用/占位 -->
-    <router-link to="/">
-      <button class="rArrow"></button>
+    <router-link to="/userCenter"> 
+        <button class="rArrow"></button> 
     </router-link>
   </div>
 </template>
