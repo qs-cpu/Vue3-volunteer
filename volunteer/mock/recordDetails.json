@@ -10,7 +10,7 @@
             "status": 1,
             "score": 4,
             "place": "中山公园",
-            "imgList": ["./imgs/zhiyuanzhe.jpg"]
+            "imgList": ["/imgs/zhiyuanzhe.jpg"]
         }
     }
 }
